@@ -23,13 +23,9 @@ Currently the most widely used by far is the regular remote control with basic u
 
 ## Testing spatial navigation
 
-Beyond the browser on TVs and similar web-connected devices, spatial navigation is also available in Opera on its other popular platforms. Developers can easily test spatial navigation on their desktop machines:
+Beyond the browser on TVs and similar web-connected devices, spatial navigation is also available in Opera on its other popular platforms. Developers can easily test spatial navigation on their desktop machines by using [Opera 12.16][1] and holding down the Shift button and arrow keys together.
 
-- In the [Opera desktop browser][1], hold down the Shift button and press the arrow keys.
-- In the [Opera Mobile emulator][2], select _Keypad_ in the launch settings window.
-
-[1]: http://www.opera.com/browser/
-[2]: http://www.opera.com/developer/tools/mobile/
+[1]: http://www.opera.com/download/guide/?ver=12.16
 
 An eye-opening exercise is to browse a few popular sites using only spatial navigation. Although it probably won’t be impossible, it is likely to be frustrating with the cursor seeming to focus on elements at random. Television adds an extra layer of frustration and that’s due to the infrared connection between the remote control and the TV. This causes a noticeable delay of up to half a second or so between pressing a button on the remote control and the cursor moving on the screen. Consequently, any mistake by the user or unexpected movement of the cursor is particularly expensive in terms of time wasted. Fortunately, we can alleviate a lot of this with CSS3.
 
